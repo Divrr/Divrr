@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DeepDivrr
-- 👀 I’m interested in: EVERYTHING
-- 🌱 I’m currently learning: UNITY
-- 💞️ I’m looking to collaborate on: PROGRAMS ABOUT EDUCATION AND AI
-- 📫 How to reach me: SCREAM MY NAME REALLY LOUDLY
+Hey!
+I'm Adib Rohani (he/him)
 
-<!---
-DeepDivrr/DeepDivrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Studying a Bachelor's in comp sci, majoring in AI
+
+_I'm so pumped this year and I can't even cohesively explain why. Everything is interesting again._
+
+- **CURRENTLY LEARNING** Agile web development, statistical modelling, OOP (in java), data structures and algorithms (in python).
+- **PERSONAL CURIOSITY** Trying to learn how to develop a notetaking system that is actually useful and long-lasting.
+- **ALSO** Trying to figure out how github works more closely now that I'm developing a project for Agile web dev.
