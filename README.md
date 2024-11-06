@@ -8,4 +8,4 @@ I've come into AI and DS aspiring to make knowledge more accessible and approach
 
 - **CURRENT LEARNING** graph algorithms, prolog and knowledge representation, search algorithms
 - **PREVIOUS LEARNING** Agile web development, statistical modelling, OOP (in java), data structures and algorithms, operating systems, SQLite
-- **PERSONAL CURIOSITIES** Knowledge management, building communities, creative writing, Nix
+- **PERSONAL CURIOSITIES** Knowledge management, building communities, creative writing
