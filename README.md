@@ -1,11 +1,23 @@
-Hey!
-I'm Adib Rohani (he/him)
+## Hey! I'm [Adib Rohani](linkedin.com/in/adib-rohani)
 
-## Studying a Bachelor's in comp sci, majoring in AI
+👁️ Passionate about making knowledge and learning more accessible for people.
 
-_I'm so pumped this year and I can't even cohesively explain why. Everything is interesting again._
-I've come into AI and DS aspiring to make knowledge more accessible and approachable, particularly in the education industry.
+📚 Studying Bachelor of Advanced Computer Science, majoring in AI
 
-- **CURRENT LEARNING** nature-inspired computing, computer networks
-- **PREVIOUS LEARNING** Agile web development, statistical modelling, OOP (in java), data structures and algorithms, operating systems, SQLite, graph algorithms, prolog and knowledge representation, traditional AI search algorithms
-- **PERSONAL CURIOSITIES** Knowledge management, building communities, creative writing
+Having foundations for...
+- 🕸️ Full-Stack Web Development
+- ⚙️ Data Structures & Algorithms
+- 📈 Multivariate Linear Regression
+- 🌐 Computer Networks & Operating Systems
+- 🧩 Classical AI & Knowledge Representation
+- 🐝 Nature-Inspired Intelligence
+
+### Languages and Frameworks
+```
+*** Python        **  Django
+**  JavaScript    **  React
+**  SQLite        *   FastAPI
+**  C             *   Vue
+*   R
+*   Java
+```
