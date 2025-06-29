@@ -1,4 +1,4 @@
-## Hey! I'm [Adib Rohani](linkedin.com/in/adib-rohani)
+## Hey! I'm [Adib Rohani](https://linkedin.com/in/adib-rohani)
 
 👁️ Passionate about making knowledge and learning more accessible for people.
 
