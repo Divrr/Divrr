@@ -1,8 +1,8 @@
 ## Hey! I'm Adib Rohani
 
-I study _Bachelor of Advanced Computer Science (AI)_.
+I study _Bachelor of Advanced Computer Science (Artificial Intelligence)_.
 
-My course has given me strong foundations in **full-stack web development, data structures and algorithms, networks and operating systems, classical AI, knowledge representation, and optimisation algorithms**. 
+The course has given me strong foundations in **full-stack web development, data structures and algorithms, networks and operating systems, classical AI, knowledge representation, and optimisation algorithms**. 
 
 I'm passionate about making information, knowledge and insight more accessible for people, communities, and institutions. Not sure what that means yet entirely – give me a few years to figure that out.
 
